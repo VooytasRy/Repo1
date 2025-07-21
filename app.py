@@ -9,7 +9,7 @@ CONVERSION_FACTORS = {
     'cale': 0.0254
 }
 
-st.title('Konwerter jednostek długości v1.1')
+st.title('Konwerter jednostek długości v1.22')
 
 # Wybór jednostki wejściowej i wyjściowej
 input_unit = st.selectbox('Wybierz jednostkę wejściową:', list(CONVERSION_FACTORS.keys()))
